@@ -884,13 +884,13 @@ Headless Chrome automation using Puppeteer for scraping and testing.
 
 ### rea-captcha
 
-MCP server that pauses browser agents at verification challenges, hands the same Playwright or CDP session to a human, and resumes after fresh clearance.
+MCP server that completes authorized test or owned verification flows in an agent's existing Playwright or CDP session, then resumes after fresh server validation.
 
 - URL: https://github.com/masakaai/rea-captcha
 - Language: TypeScript
 - Provider: MasakaAI
 - Official: yes
-- Tags: browser-automation, human-in-the-loop, playwright, cdp, verification
+- Tags: browser-automation, agent-completion, playwright, cdp, verification
 - Category: Browsers, Search, and Web Automation
 
 ### Tavily MCP Server

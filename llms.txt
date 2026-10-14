@@ -101,7 +101,7 @@ Links under each category point at the upstream project, docs, or registry page.
 - [looot](https://github.com/loootai/looot-mcp): Hosted remote MCP server to search, price and run 2,500+ data API endpoints from 90+ providers with one key and a prepaid balance. (TypeScript, official)
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp): Official Microsoft Playwright server for browser automation via accessibility snapshots. (TypeScript, official)
 - [Puppeteer MCP Server](https://github.com/merajmehrabi/puppeteer-mcp-server): Headless Chrome automation using Puppeteer for scraping and testing. (TypeScript)
-- [rea-captcha](https://github.com/masakaai/rea-captcha): MCP server that pauses browser agents at verification challenges, hands the same Playwright or CDP session to a human, and resumes after fresh clearance. (TypeScript, official)
+- [rea-captcha](https://github.com/masakaai/rea-captcha): MCP server that completes authorized test or owned verification flows in an agent's existing Playwright or CDP session, then resumes after fresh server validation. (TypeScript, official)
 - [Tavily MCP Server](https://github.com/tavily-ai/tavily-mcp): AI-native search and content extraction for research agents. (Python, official)
 - [XActions](https://github.com/nirholas/xactions): X/Twitter toolkit with an MCP server, CLI and browser scripts to scrape profiles, followers and tweets, monitor analytics and automate engagement without API fees. (JavaScript)
 - [Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper): Search, monitor, and extract X/Twitter data from Xquik through MCP. (TypeScript)
