@@ -729,6 +729,22 @@
     "official": true
   },
   {
+    "name": "rea-captcha",
+    "url": "https://github.com/masakaai/rea-captcha",
+    "description": "MCP server that pauses browser agents at verification challenges, hands the same Playwright or CDP session to a human, and resumes after fresh clearance.",
+    "category": "browsers-search-and-web-automation",
+    "language": "TypeScript",
+    "provider": "MasakaAI",
+    "tags": [
+      "browser-automation",
+      "human-in-the-loop",
+      "playwright",
+      "cdp",
+      "verification"
+    ],
+    "official": true
+  },
+  {
     "name": "Firecrawl MCP Server",
     "url": "https://github.com/mendableai/firecrawl-mcp-server",
     "description": "Scrape, crawl, and extract structured web data with Firecrawl.",
